@@ -1,6 +1,6 @@
 
 
-# 🧠 Ejercicios JS - RollingCode
+# 🧠 Variables JS - RollingCode
 
 Este repositorio contiene mis primeros ejercicios de JavaScript realizados durante el Bootcamp de RollingCode. Está pensado como un espacio de práctica, aprendizaje y mejora continua.
 
