@@ -8,7 +8,7 @@ Este repositorio contiene mis primeros ejercicios de JavaScript realizados duran
 
 - Ejercicios básicos de lógica con `if`, `switch`, `prompt` y `document.write`.
 - Prácticas con divisibilidad, condicionales y estructuras de control.
-- Archivos organizados por etapas: `primerosEjercicios.js`, `segundosEjercicios.js`, 
+- Archivos organizados por etapas: `VariablesEjercicios.js`, , 
 - Archivos HTML para probar los scripts directamente en el navegador.
 
 
